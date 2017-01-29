@@ -1,0 +1,16 @@
+.snippet {
+    border-radius: 6px;
+    background-color: #030202;
+    border: 1px solid #565656;
+    margin: 0 0 1em 0;
+  }
+
+.snippet > div {
+    margin: 1em;
+}
+
+.snippet > div > p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
