@@ -1,0 +1,5 @@
+.snippet-list {
+    height: 85vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
